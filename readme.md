@@ -21,7 +21,8 @@ installation guide in thier website [pytorch website](https://pytorch.org/)
 |local lab 1📓|[notebook](Day1_2/Labs/Day1_1_Pytorch_Basics.ipynb)|
 |colab lab 1💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/158cyOE4N3Yz4MluK8lTAk5aWkGjzcX_e?usp=sharing)|
 <!-- |local lab 2📓|[notebook](Day1/Labs/Day1_Lab2_EDA_DataPreprocessing.ipynb)| -->
-<!-- |colab lab 2💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m845ieHM-GZQ54zZl55Qevd_OvT-w-Rx?usp=sharing)| -->
+!-- |colab lab 2💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/138bYbNDfOZLkgcsaxOtl8YyKkugCkG9m?usp=sharing)|
+!-- |colab lab 3💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nMl5nNnJaM7o8I3gL3iBPrnpw9H1uOWs?usp=sharing)|
 <!-- |Quiz day1📝|[link](https://ahaslides.com/BXX9U)| -->
 <!-- |Exercise day1🧠|[notebook](Day1/Exercise/Day1_exercise.ipynb)| -->
 <!-- |Exercise Solution ✅|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/KAUST_Academy_2026_Introduction_To_AI/blob/main/Exercises/day_1/Day1_ExerciseSolution.ipynb)| -->
