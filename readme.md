@@ -20,9 +20,10 @@ installation guide in thier website [pytorch website](https://pytorch.org/)
 |lecture👨‍🏫|[slides](Day1_2/computer_vision_day_1.pdf)|
 |local lab 1📓|[notebook](Day1_2/Labs/Day1_1_Pytorch_Basics.ipynb)|
 |colab lab 1💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/158cyOE4N3Yz4MluK8lTAk5aWkGjzcX_e?usp=sharing)|
-<!-- |local lab 2📓|[notebook](Day1/Labs/Day1_Lab2_EDA_DataPreprocessing.ipynb)| -->
-!-- |colab lab 2💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/138bYbNDfOZLkgcsaxOtl8YyKkugCkG9m?usp=sharing)|
-!-- |colab lab 3💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nMl5nNnJaM7o8I3gL3iBPrnpw9H1uOWs?usp=sharing)|
+|local lab 2📓|[notebook](Day1_2/Labs/UQU_Day1_2_Image_Classification_CNN_And_AlexNet_CIFAR10.ipynb)|
+|colab lab 2💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/138bYbNDfOZLkgcsaxOtl8YyKkugCkG9m?usp=sharing)|
+|local lab 3📓|[notebook](Day1_2/Labs/UQU_Day1_3_Image_Generation_AE_MNIST.ipynb)|
+|colab lab 3💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nMl5nNnJaM7o8I3gL3iBPrnpw9H1uOWs?usp=sharing)|
 <!-- |Quiz day1📝|[link](https://ahaslides.com/BXX9U)| -->
 <!-- |Exercise day1🧠|[notebook](Day1/Exercise/Day1_exercise.ipynb)| -->
 <!-- |Exercise Solution ✅|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/KAUST_Academy_2026_Introduction_To_AI/blob/main/Exercises/day_1/Day1_ExerciseSolution.ipynb)| -->
