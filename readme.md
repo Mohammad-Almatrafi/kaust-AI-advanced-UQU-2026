@@ -18,8 +18,8 @@ installation guide in thier website [pytorch website](https://pytorch.org/)
 |||
 | :---: | :---: |
 |lecture👨‍🏫|[slides](Day1_2/computer_vision_day_1.pdf)|
-<!-- |local lab 1📓|[notebook](Day1/Labs/Day1_Lab1_ScikitLearnBasics_UQU.ipynb)| -->
-<!-- |colab lab 1💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tutlZMNacRfiR2tNvkwx8uNQBnEvICCR?usp=sharing)| -->
+|local lab 1📓|[notebook](Day1_2/Labs/Day1_1_Pytorch_Basics.ipynb)|
+|colab lab 1💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/158cyOE4N3Yz4MluK8lTAk5aWkGjzcX_e?usp=sharing)|
 <!-- |local lab 2📓|[notebook](Day1/Labs/Day1_Lab2_EDA_DataPreprocessing.ipynb)| -->
 <!-- |colab lab 2💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m845ieHM-GZQ54zZl55Qevd_OvT-w-Rx?usp=sharing)| -->
 <!-- |Quiz day1📝|[link](https://ahaslides.com/BXX9U)| -->
