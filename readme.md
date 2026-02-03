@@ -34,6 +34,8 @@ installation guide in thier website [pytorch website](https://pytorch.org/)
 |||
 | :---: | :---: |
 |lecture👨‍🏫|[slides](Day3_4/computer_vision_day_2.pdf)|
+|local lab 2📓|[notebook](Day3_4/Labs/Day2_2_Finetuning_CatsAndDogs_redacted.ipynb)|
+|colab lab 2💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IBQZ-F165Vkuxow1d3h7gOE4o4Q791KR?usp=sharing)|
 
 
 
