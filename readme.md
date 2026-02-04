@@ -38,6 +38,8 @@ installation guide in thier website [pytorch website](https://pytorch.org/)
 |colab lab 1 💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KAUST-Academy/KAUST_Academy_2026_Advanced_AI/blob/main/Labs/Day2_1_Dataset_Augmentations_Basics.ipynb)|
 |local lab 2 redacted📓|[notebook](Day3_4/Labs/Day2_2_Finetuning_CatsAndDogs_redacted.ipynb)|
 |colab lab 2 redacted💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IBQZ-F165Vkuxow1d3h7gOE4o4Q791KR?usp=sharing)|
+|local lab 2 📓|[notebook](Day3_4/Labs/Day2_2_Finetuning_CatsAndDogs.ipynb)|
+|colab lab 2 💻|[![image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ONfVodKDYLu7Y8Qs5WrEsgdRxFhYWo7B?usp=sharing)|
 
 
 
